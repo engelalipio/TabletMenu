@@ -1,4 +1,0 @@
-TabletMenu
-==========
-
-Legacy Tablet Menu
